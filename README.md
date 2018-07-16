@@ -1,3 +1,2 @@
 # tag_process
-## Modify
-## subtitle
+## added tag_process and f_score script
